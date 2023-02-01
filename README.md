@@ -11,7 +11,7 @@ Experiencia con Node.js: he utilizado Node.js para construir aplicaciones en tie
 Conocimientos de Sequelize: he trabajado en proyectos que requieren la interacción con bases de datos, utilizando Sequelize para crear modelos y realizar consultas.
 
 ### Proyectos
-iA lo largo de mi carrera, he participado en diferentes proyectos en los que he aplicado mis habilidades. Algunos de mis trabajos más destacados incluyen:
+A lo largo de mi carrera, he participado en diferentes proyectos en los que he aplicado mis habilidades. Algunos de mis trabajos más destacados incluyen:
 
 Aplicación de gestión de tareas: desarrollé una aplicación web que permite a los usuarios crear, ver y completar tareas, utilizando React y Node.js.
 Tienda en línea: trabajé en un equipo para crear una tienda en línea que permite a los usuarios navegar y comprar productos, utilizando React, Node.js, y MongoDB.
