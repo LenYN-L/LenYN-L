@@ -18,3 +18,6 @@ Tienda en línea: trabajé en un equipo para crear una tienda en línea que perm
 
 ### Conclusion
 Estoy comprometido a ofrecer soluciones de alta calidad y a trabajar de cerca con mis colegas para asegurar el éxito del proyecto. Si estás buscando a un Front-End Developer experimentado y apasionado, no dudes en ponerte en contacto conmigo. ¡Estoy emocionado de trabajar contigo en tu próximo proyecto!
+
+### Contactame
+lenynbejar8@gmail.com · 943530337 · /in/lenynbejar/ · github.com/LenYN-L 
