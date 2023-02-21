@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### Hola mi Nombre Lenyn Bejar
 
-### Bienvenido a mi perfil de Front-End Developer
-Soy un desarrollador con experiencia en tecnologías front-end, enfocado en construir aplicaciones web atractivas y fáciles de usar. He trabajado con React, JavaScript, Node y Sequelize para crear soluciones complejas y escalables.
+### Bienvenido a mi perfil de Full-Stack Developer
+Soy un desarrollador Full-Stack, enfocado en construir aplicaciones web atractivas y fáciles de usar. He trabajado con React, JavaScript, Node y Sequelize para crear soluciones complejas y escalables.
 
 ### Habilidades
 Experiencia en React: he trabajado en diversos proyectos utilizando React, creando componentes y aplicando estilos para lograr una experiencia de usuario atractiva.
